@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79432361282",
+    "firebase_url": "https://cygalexample.firebaseio.com",
+    "project_id": "cygalexample",
+    "storage_bucket": "cygalexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79432361282:android:b7978681486f180f",
+        "android_client_info": {
+          "package_name": "com.cygalexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79432361282-dp5kre7kn6aocu9i6h4q96q1bc3qv7ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cygalexample",
+            "certificate_hash": "df75f7a1cfb93087102112b9730f4df66c61c45e"
+          }
+        },
+        {
+          "client_id": "79432361282-3o5e7405h37scvbijmk02q0v7l08r7v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmsDj9ybFq71LBfiRDMUrQAR3p5cg557w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79432361282-3o5e7405h37scvbijmk02q0v7l08r7v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
